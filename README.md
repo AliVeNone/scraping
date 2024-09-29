@@ -1,2 +1,0 @@
-# Baigiamasis
- scraping
