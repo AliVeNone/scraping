@@ -1,0 +1,118 @@
+Brand: Lee Cooper, Name: Stripe Swtr Sn99, Price: £5.00
+Brand: Jack and Jones, Name: Back Print Sweatshirt Mens, Price: £9.00
+Brand: Boss, Name: Embroidered Logo Zip-Up Hoodie, Price: £35.00
+Brand: Under Armour, Name: Unstoppable Fleece Sweatshirt Mens, Price: £27.00
+Brand: Jack and Jones, Name: Bradley Antique Back Print Hoodie Mens, Price: £11.00
+Brand: Hugo, Name: Durton Quarter Zip Sweatshirt, Price: £50.00
+Brand: Jack and Jones, Name: Knit Half Zip Jumper, Price: £17.00
+Brand: adidas, Name: Future Icons Badge Of Sport Hoodie Mens Hoody, Price: £18.50
+Brand: Under Armour, Name: Unstop Flc quarter Sn99, Price: £28.00
+Brand: Ralph Lauren, Name: Recycled Fleece OTH Hoodie, Price: £50.00
+Brand: Hugo, Name: Hugo Boss Diragol Sweatshirt, Price: £45.00
+Brand: Lee Cooper, Name: Sweater Sn99, Price: £5.00
+Brand: Lyle and Scott, Name: Lyle 1/4z Jumper Sn99, Price: £37.00
+Brand: The North Face, Name: 100 Glacier quarter Zip Fleece Top, Price: £44.00
+Brand: adidas, Name: Donovan Mitchell Inno Hoodie Mens Hoody, Price: £26.00
+Brand: STONE ISLAND, Name: Crewneck Sweater, Price: £209.00
+Brand: Jack and Jones, Name: Crew Sweatshirt Mens, Price: £12.00
+Brand: Castore, Name: Scuba Overhead Hoodie Hoody Mens, Price: £26.00
+Brand: Lee Cooper, Name: Stripe Swtr Sn99, Price: £5.00
+Brand: Lacoste, Name: Lacoste Bln Cotn Hdy Sn99, Price: £55.00
+Brand: Boss, Name: Tracksuit Sweatshirt 10166548, Price: £50.00
+Brand: Lacoste, Name: Lacoste Organic Cotton Hoody, Price: £60.00
+Brand: The North Face, Name: Men’s Simple Dome Hoodie, Price: £48.00
+Brand: Ted Baker, Name: Ted Baker Hatton Ls Sweatshirt, Price: £59.99
+Brand: Blank Essentials, Name: Zip Through Hoody, Price: £26.00
+Brand: Lacoste, Name: Lacoste Organic Cotton Hoody, Price: £60.00
+Brand: United Colors of Benetton, Name: Men's Hooded Sweatshirt, Price: £17.00
+Brand: Jack and Jones, Name: Back Print Sweatshirt Mens, Price: £9.00
+Brand: The North Face, Name: Men’s Simple Dome Hoodie, Price: £48.00
+Brand: Champion, Name: Rw Crw Swt Sn99, Price: £23.00
+Brand: Boss, Name: Saggy Curve Zip Hoodie, Price: £85.00
+Brand: Boss, Name: Boss Authentic Hoodie 10208539 08, Price: £65.00
+Brand: SikSilk, Name: Zip Hoodie Sn99, Price: £15.00
+Brand: Ralph Lauren, Name: Polo LoopBack CrwSwt Sn44, Price: £55.00
+Brand: Boss, Name: Soody 1 10254681 01, Price: £90.00
+Brand: Blank Essentials, Name: Contrast Puff Print Hoody, Price: £25.00
+Brand: Lyle and Scott, Name: Lyle Neoprene Golf H Sn99, Price: £48.00
+Brand: Timberland, Name: Sweatshirt, Price: £55.00
+Brand: The North Face, Name: Drew Peak Hoodie, Price: £58.00
+Brand: CHAMPION, Name: Reverse Weave Fleece Sweatshirt, Price: £23.00
+Brand: Tommy Jeans, Name: Badge Sweatshirt, Price: £60.00
+Brand: Jack and Jones, Name: Bradley Antique Back Print Hoodie Mens, Price: £11.00
+Brand: Lee Cooper, Name: Sweater Sn99, Price: £5.00
+Brand: Under Armour, Name: Unstoppable Fleece Sweatshirt Mens, Price: £27.00
+Brand: Boss, Name: Boss Iconic Hoodie 10241854 01, Price: £70.00
+Brand: Barbour International, Name: Essential Half-Zip Sweatshirt, Price: £65.00
+Brand: Howick, Name: Howick Logo Hoodie, Price: £18.00
+Brand: Lacoste, Name: Lacoste Lw Bi-mt Hdy Sn99, Price: £48.00
+Brand: Jack and Jones, Name: Mason Tracksuit Men's, Price: £35.00
+Brand: Ralph Lauren, Name: Lounge Stretch Cotton Hoody, Price: £60.00
+Brand: adidas, Name: Lounge Fleece Hoodie Mens Hoody, Price: £35.00
+Brand: The North Face, Name: Men's Open Gate Full-Zip Hoodie, Price: £58.00
+Brand: Lacoste, Name: Fleece Sweatshirt, Price: £44.00
+Brand: True Religion, Name: Horseshoe Sweatshirt, Price: £35.00
+Brand: Lee Cooper, Name: Stripe Swtr Sn99, Price: £5.00
+Brand: Superdry, Name: Superdry Vintage Logo Hoodie, Price: £42.00
+Brand: Lyle and Scott, Name: Lyle Mer Crew Jumper Sn99, Price: £22.00
+Brand: Firetrap, Name: Mens Brunel Full Zip Fleece Hoodie, Price: £23.00
+Brand: Jack and Jones, Name: Chest Logo Hoodie Mens, Price: £12.00
+Brand: Lee Cooper, Name: Stripe Swtr Sn99, Price: £5.00
+Brand: Jack and Jones, Name: Back Print Sweatshirt Mens, Price: £9.00
+Brand: Boss, Name: Embroidered Logo Zip-Up Hoodie, Price: £35.00
+Brand: Under Armour, Name: Unstoppable Fleece Sweatshirt Mens, Price: £27.00
+Brand: Jack and Jones, Name: Bradley Antique Back Print Hoodie Mens, Price: £11.00
+Brand: Hugo, Name: Durton Quarter Zip Sweatshirt, Price: £50.00
+Brand: Jack and Jones, Name: Knit Half Zip Jumper, Price: £17.00
+Brand: adidas, Name: Future Icons Badge Of Sport Hoodie Mens Hoody, Price: £18.50
+Brand: Under Armour, Name: Unstop Flc quarter Sn99, Price: £28.00
+Brand: Ralph Lauren, Name: Recycled Fleece OTH Hoodie, Price: £50.00
+Brand: Hugo, Name: Hugo Boss Diragol Sweatshirt, Price: £45.00
+Brand: Lee Cooper, Name: Sweater Sn99, Price: £5.00
+Brand: Lyle and Scott, Name: Lyle 1/4z Jumper Sn99, Price: £37.00
+Brand: The North Face, Name: 100 Glacier quarter Zip Fleece Top, Price: £44.00
+Brand: adidas, Name: Donovan Mitchell Inno Hoodie Mens Hoody, Price: £26.00
+Brand: STONE ISLAND, Name: Crewneck Sweater, Price: £209.00
+Brand: Jack and Jones, Name: Crew Sweatshirt Mens, Price: £12.00
+Brand: Castore, Name: Scuba Overhead Hoodie Hoody Mens, Price: £26.00
+Brand: Lee Cooper, Name: Stripe Swtr Sn99, Price: £5.00
+Brand: Lacoste, Name: Lacoste Bln Cotn Hdy Sn99, Price: £55.00
+Brand: Boss, Name: Tracksuit Sweatshirt 10166548, Price: £50.00
+Brand: Lacoste, Name: Lacoste Organic Cotton Hoody, Price: £60.00
+Brand: The North Face, Name: Men’s Simple Dome Hoodie, Price: £48.00
+Brand: Ted Baker, Name: Ted Baker Hatton Ls Sweatshirt, Price: £59.99
+Brand: Blank Essentials, Name: Zip Through Hoody, Price: £26.00
+Brand: Lacoste, Name: Lacoste Organic Cotton Hoody, Price: £60.00
+Brand: United Colors of Benetton, Name: Men's Hooded Sweatshirt, Price: £17.00
+Brand: Jack and Jones, Name: Back Print Sweatshirt Mens, Price: £9.00
+Brand: The North Face, Name: Men’s Simple Dome Hoodie, Price: £48.00
+Brand: Champion, Name: Rw Crw Swt Sn99, Price: £23.00
+Brand: Boss, Name: Saggy Curve Zip Hoodie, Price: £85.00
+Brand: Boss, Name: Boss Authentic Hoodie 10208539 08, Price: £65.00
+Brand: SikSilk, Name: Zip Hoodie Sn99, Price: £15.00
+Brand: Ralph Lauren, Name: Polo LoopBack CrwSwt Sn44, Price: £55.00
+Brand: Boss, Name: Soody 1 10254681 01, Price: £90.00
+Brand: Blank Essentials, Name: Contrast Puff Print Hoody, Price: £25.00
+Brand: Lyle and Scott, Name: Lyle Neoprene Golf H Sn99, Price: £48.00
+Brand: Timberland, Name: Sweatshirt, Price: £55.00
+Brand: The North Face, Name: Drew Peak Hoodie, Price: £58.00
+Brand: CHAMPION, Name: Reverse Weave Fleece Sweatshirt, Price: £23.00
+Brand: Tommy Jeans, Name: Badge Sweatshirt, Price: £60.00
+Brand: Jack and Jones, Name: Bradley Antique Back Print Hoodie Mens, Price: £11.00
+Brand: Lee Cooper, Name: Sweater Sn99, Price: £5.00
+Brand: Under Armour, Name: Unstoppable Fleece Sweatshirt Mens, Price: £27.00
+Brand: Boss, Name: Boss Iconic Hoodie 10241854 01, Price: £70.00
+Brand: Barbour International, Name: Essential Half-Zip Sweatshirt, Price: £65.00
+Brand: Howick, Name: Howick Logo Hoodie, Price: £18.00
+Brand: Lacoste, Name: Lacoste Lw Bi-mt Hdy Sn99, Price: £48.00
+Brand: Jack and Jones, Name: Mason Tracksuit Men's, Price: £35.00
+Brand: Ralph Lauren, Name: Lounge Stretch Cotton Hoody, Price: £60.00
+Brand: adidas, Name: Lounge Fleece Hoodie Mens Hoody, Price: £35.00
+Brand: The North Face, Name: Men's Open Gate Full-Zip Hoodie, Price: £58.00
+Brand: Lacoste, Name: Fleece Sweatshirt, Price: £44.00
+Brand: True Religion, Name: Horseshoe Sweatshirt, Price: £35.00
+Brand: Lee Cooper, Name: Stripe Swtr Sn99, Price: £5.00
+Brand: Superdry, Name: Superdry Vintage Logo Hoodie, Price: £42.00
+Brand: Lyle and Scott, Name: Lyle Mer Crew Jumper Sn99, Price: £22.00
+Brand: Firetrap, Name: Mens Brunel Full Zip Fleece Hoodie, Price: £23.00
+Brand: Jack and Jones, Name: Chest Logo Hoodie Mens, Price: £12.00
