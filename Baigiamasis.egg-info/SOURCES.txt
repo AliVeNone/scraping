@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.py
+Baigiamasis.egg-info/PKG-INFO
+Baigiamasis.egg-info/SOURCES.txt
+Baigiamasis.egg-info/dependency_links.txt
+Baigiamasis.egg-info/entry_points.txt
+Baigiamasis.egg-info/requires.txt
+Baigiamasis.egg-info/top_level.txt
+scraper/__init__.py
+scraper/config.yaml
+scraper/scraper.py
+scraper/selenium_scraper.py
